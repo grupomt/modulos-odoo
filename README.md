@@ -1,4 +1,5 @@
-#edit_delete_invoice
+edit_delete_invoice
+===================
 Este módulo añade la siguiente funcionalidad a la facturación de Odoo: 
 
 - Permite editar la numeración, fecha, cliente y productos de las facturas, sin necesidad de cancelarlas. 
